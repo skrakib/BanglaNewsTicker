@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Bangla News Ticker",
+  "version": "1.0",
+  "description": "Scrolling Prothom Alo headlines at bottom of all pages",
+  "permissions": [],
+  "host_permissions": [
+    "https://api.rss2json.com/"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+  "default_popup": "popup.html"
+}
+}

@@ -10,8 +10,7 @@ A lightweight and real-time scrolling **Bangla news ticker** extension for Chrom
 ---
 
 ## 📸 Demo Screenshot
-
-> *(Include a screenshot of the ticker bar running on a page like Google.com)*
+ ![Screenshot (25)](https://github.com/user-attachments/assets/8c437d1c-9d15-4b01-83bb-d788a1cf6f5d)
 
 ---
 
@@ -41,19 +40,15 @@ BanglaNewsTicker/
 
 ### ✅ 1. Clone or Download
 
-    ```bash
-    git clone https://github.com/skrakib/BanglaNewsTicker.git
+   # bash
+   # git clone https://github.com/skrakib/BanglaNewsTicker.git
 
 ### ✅ 2. Load into Chrome
-    Open Chrome and go to: chrome://extensions
-
-    Enable Developer Mode (top-right switch)
-
-    Click "Load unpacked"
-
-    Select the folder where your files are (BanglaNewsTicker/)
-
-    Done! You should now see the extension installed.
+    # Open Chrome and go to: chrome://extension
+    # Enable Developer Mode (top-right switch)
+    # Click "Load unpacked"
+    # Select the folder where your files are (BanglaNewsTicker/)
+    # Done! You should now see the extension installed.
 
 ### ✅ 3. Try It Out
     Open any website (like Google.com)

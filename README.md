@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔴 Bangla News Ticker - Chrome Extension 🇧🇩
 
 A lightweight and real-time scrolling **Bangla news ticker** extension for Chrome — just like the news bars seen on TV channels like Jamuna TV or Prothom Alo.
@@ -105,3 +106,7 @@ BanglaNewsTicker/
 ### ✅ License
     This project is open source under the MIT License
 
+=======
+# BanglaNewsTicker
+TV-style Bangla news ticker Chrome extension
+>>>>>>> 9c73469a167584548fe9edfdf04ef070dfe51807
